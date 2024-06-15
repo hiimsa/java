@@ -1,2 +1,3 @@
-# java
-Useful code for Java development
+# Java Snippets
+CustomPriorityQueue Implementation
+BlockingQueue real life use-case Implementation 
